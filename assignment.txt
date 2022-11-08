@@ -1,0 +1,23 @@
+Machine Learning Assignment
+
+In this assignment, you will examine a chosen data set and the associated paper, and then apply Machine Learning to the data using the Weka software.
+
+You have a choice of 3 data sets and Machine Learning tasks:
+
+1. Classifying pottery based on their chemical compositions (https://www.mdpi.com/2071-1050/14/18/11214/htm)
+2. Estimating the sex of human skulls, based on their measurements (https://www.mdpi.com/2076-3417/12/18/9285)
+3. Classifying types of Middle Eastern pottery based on measurements (https://hdl.handle.net/1887/3421358)
+
+Choose the one you like the most, and if possible, don't all choose the same topic!
+
+To get started, first read the paper linked to your chosen data. In case of the thesis (choice number 3), read sections 1 and 2, and also have a look at table 3.1. 
+
+
+
+Your presentation should contain the following elements:
+
+- An introduction to the problem (summary of paper/thesis)
+- A short description of the data
+- A results table (F1 for each class) of the best performing Machine Learning algorithm
+- A brief explanation of the Machine Learning method used
+- Optional: anything interesting you found during your experiments

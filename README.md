@@ -69,4 +69,4 @@ Presentations should contain the following elements:
 - Summarise your findings. Do you think AI can take over from archaeologists for this task?
 
 
-
+Your presentation will be graded on the clarity of the introduction of the problem, how well you describe the data and the results, and how clear your explanation of your chosen algorithm is. There are bonus points to be gained for interesting findings and/or conclusions!

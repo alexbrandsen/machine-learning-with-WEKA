@@ -39,14 +39,16 @@ You have inspected the data, now it's time to import the data into Weka and do s
 - Click on Explorer
 - In Preprocess, click Open File...
 - Find the .arff data file you’ve downloaded, select it
-- You'll now see the columns from the data in the bottom left. Based on your inspection of the data, decide if you want to remove some columns that are not useful (think of ID numbers, other text information that doesn't help with classifying)
+- You'll now see the columns from the data in the bottom left. You can click on each column to see descriptive statistics for that variable (min, max, mean, distribution, etc)
+- Based on your inspection of the data, decide if you want to remove some columns that are not useful (think of ID numbers, other text information that doesn't help with classifying)
 - Once done, click on Classify
 - Select More options... > Evaluation metrics... > None, then scroll down and select F-measure, Recall and Precision, then click OK and X
 - Click Cross-validation
 - Select the class to be predicted by the Machine Learning in the dropdown box on the left
 - Click Choose, and select an algorithm that’s not greyed out (reference the slides for common algorithms)
 - Click Start
-- Look at the results on the right 
+	- If you get an error about string attributes, go back to your data in the Preprocess tab, and remove the column containing text
+- Once the algorithm has been trained and evaluated, look at the results on the right 
 	- Pay attention to the total F-measure ("Weighted Avg."), this is an indication of how well the algorithm works overall 
 	- Also look at the F-measure per class, are some classes easier to predict than others? Why do you think this is?
 	- Do you see a pattern in the recall and precision? Is one generally higher than the other? What do you think this means?
@@ -57,13 +59,14 @@ Once you're done experimenting, and think you have found the best performing alg
 
 ## Presentation
 
-Presentation should contain the following elements:
+Presentations should contain the following elements:
 
 - An introduction to the problem (summary of paper/thesis)
 - A short description of the data (what is the class, how many classes are there, what type of data is used as features)
 - A results table (F1, precision and recall for each class) of the best performing Machine Learning algorithm (you can copy this from Weka)
 - A brief explanation of the Machine Learning method you got the best results with (read up on the algorithm on Wikipedia)
 - Optional: anything interesting you found during your experiments (think of classes with very high or very low F1, or increasing the F1 by removing columns)
+- Summarise your findings. Do you think AI can take over from archaeologists for this task?
 
 
 

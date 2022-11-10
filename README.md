@@ -6,8 +6,8 @@ In this assignment, you will examine a chosen data set and the associated paper,
 
 You have a choice of 3 data sets and Machine Learning tasks:
 
-1. Classifying pottery based on their chemical compositions (https://www.mdpi.com/2071-1050/14/18/11214/htm)
-2. Estimating the sex of human skulls, based on their measurements (https://www.mdpi.com/2076-3417/12/18/9285)
+1. Classifying pottery based on their chemical compositions (https://doi.org/10.3390/su141811214)
+2. Estimating the sex of human skulls, based on their measurements (https://doi.org/10.3390/app12189285)
 3. Classifying types of Middle Eastern pottery based on measurements (https://hdl.handle.net/1887/3421358)
 
 Choose the one you like the most, and if possible, don't all choose the same topic!

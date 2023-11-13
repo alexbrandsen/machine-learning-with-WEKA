@@ -4,13 +4,13 @@ In this assignment, you will examine a chosen data set and the associated paper,
 
 ## Choose your topic 
 
-You have a choice of 3 data sets and Machine Learning tasks:
+You have a choice of 5 data sets and Machine Learning tasks:
 
 1. Classifying pottery based on their chemical compositions (https://doi.org/10.3390/su141811214)
 2. Estimating the sex of human skulls, based on their measurements (https://doi.org/10.3390/app12189285)
 3. Classifying types of Middle Eastern pottery based on measurements (https://hdl.handle.net/1887/3421358)
-
-Choose the one you like the most, and if possible, don't all choose the same topic!
+4. Estimating age of pigs (Sus scrofa) (https://doi.org/10.1016/j.jas.2020.105115)
+5. Classifying plant species based on phytolith measurements (https://doi.org/10.1007/s12520-015-0235-6)
 
 To get started, first read the paper linked to your chosen data. In case of the thesis (choice number 3), read sections 1 and 2, and also have a look at table 3.1. 
 
@@ -19,9 +19,11 @@ To get started, first read the paper linked to your chosen data. In case of the 
 
 Now you know what the task is, it is time to inspect the data. Download the spreadsheet (in CSV format) for your chosen subject:
 
-1. https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/chemical-pottery.csv
-2. https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/sex-estimation.csv
-3. https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/pottery.csv
+1. https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/pottery-chemical/chemical-pottery.csv
+2. https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/sex-estimation-skulls/sex-estimation.csv
+3. https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/pottery-measurements/pottery.csv
+4. https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/age-estimation-sus-scrofa/age-estimation.csv
+5. https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/plant-phytoliths/phytoliths.csv
 
 Open the .csv file in Excel, OpenOffice Calc, or Google Sheets, and have a look through the data. Pay special attention to the data types: do the columns contain text or numbers? Try and find out which column contains the class or target label, based on what you've read in the article/thesis. This is important as you will need to select the class column later!
 
@@ -30,9 +32,11 @@ Open the .csv file in Excel, OpenOffice Calc, or Google Sheets, and have a look 
 You have inspected the data, now it's time to import the data into Weka and do some Machine Learning! Follow the following steps:
 
 - Download your chosen data again, but this time in the .arff format that Weka needs:
-	- https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/chemical-pottery.arff
-	- https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/sex-estimation.arff
-	- https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/pottery.arff
+	- https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/pottery-chemical/chemical-pottery.arff
+	- https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/sex-estimation-skulls/sex-estimation.arff
+	- https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/pottery-measurements/pottery.arff
+	- https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/age-estimation-sus-scrofa/age-estimation.arff
+	- https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/plant-phytoliths/phytoliths.arff
 - Download Weka for your operating system (https://waikato.github.io/weka-wiki/downloading_weka/#stable-version)
 - Install Weka via the installer you downloaded
 - Once it's installed, open Weka

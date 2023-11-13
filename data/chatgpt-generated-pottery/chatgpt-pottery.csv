@@ -1,0 +1,68 @@
+id,pottery_type,height_cm,width_cm,length_cm,weight_g,year_created,culture
+1,Black-topped Ware,20,15,18,500,600 BCE,Greek
+2,Black-topped Ware,22,16,20,550,600 BCE,Greek
+3,Mycenaean Stirrup Jar,18,12,16,450,1500 BCE,Mycenaean
+4,Mycenaean Stirrup Jar,19,14,17,480,1500 BCE,Mycenaean
+5,Red Figure Krater,25,20,23,700,520 BCE,Greek
+6,Red Figure Krater,28,22,26,800,520 BCE,Greek
+7,Unguentarium,12,10,11,300,100 BCE,Roman
+8,Unguentarium,11,9,10,280,100 BCE,Roman
+9,Amphora,22,18,20,600,520 BCE,Greek
+10,Amphora,25,20,22,650,520 BCE,Greek
+11,Bichrome Ware,17,13,15,400,800 BCE,Cypro-Archaic
+12,Bichrome Ware,19,14,16,450,800 BCE,Cypro-Archaic
+13,Late Minoan I Cup,8,12,8,150,1450 BCE,Minoan
+14,Late Minoan I Cup,7,11,7,130,1450 BCE,Minoan
+15,Black-topped Ware,18,14,16,480,600 BCE,Greek
+16,Black-topped Ware,19,15,17,510,600 BCE,Greek
+17,Mycenaean Stirrup Jar,21,16,18,550,1500 BCE,Mycenaean
+18,Mycenaean Stirrup Jar,22,18,20,580,1500 BCE,Mycenaean
+19,Red Figure Krater,24,19,22,650,520 BCE,Greek
+20,Red Figure Krater,26,21,24,750,520 BCE,Greek
+21,Unguentarium,13,11,12,350,100 BCE,Roman
+22,Unguentarium,14,12,13,400,100 BCE,Roman
+23,Amphora,21,17,19,550,520 BCE,Greek
+24,Amphora,23,19,21,700,520 BCE,Greek
+25,Bichrome Ware,18,14,16,450,800 BCE,Cypro-Archaic
+26,Bichrome Ware,20,15,17,500,800 BCE,Cypro-Archaic
+27,Late Minoan I Cup,9,13,9,170,1450 BCE,Minoan
+28,Late Minoan I Cup,8,12,8,160,1450 BCE,Minoan
+29,Black-topped Ware,23,18,21,600,600 BCE,Greek
+30,Black-topped Ware,24,19,22,650,600 BCE,Greek
+31,Mycenaean Stirrup Jar,20,15,17,500,1500 BCE,Mycenaean
+32,Mycenaean Stirrup Jar,21,16,18,550,1500 BCE,Mycenaean
+33,Red Figure Krater,27,23,25,900,520 BCE,Greek
+34,Red Figure Krater,30,25,28,1200,520 BCE,Greek
+35,Unguentarium,12,10,11,290,100 BCE,Roman
+36,Unguentarium,13,11,12,350,100 BCE,Roman
+37,Amphora,20,16,18,500,520 BCE,Greek
+38,Amphora,24,19,22,700,520 BCE,Greek
+39,Bichrome Ware,17,13,15,410,800 BCE,Cypro-Archaic
+40,Bichrome Ware,19,14,16,470,800 BCE,Cypro-Archaic
+41,Late Minoan I Cup,8,12,8,140,1450 BCE,Minoan
+42,Late Minoan I Cup,7,11,7,120,1450 BCE,Minoan
+43,Black-topped Ware,19,15,17,500,600 BCE,Greek
+44,Black-topped Ware,21,16,19,550,600 BCE,Greek
+45,Mycenaean Stirrup Jar,19,14,17,470,1500 BCE,Mycenaean
+46,Mycenaean Stirrup Jar,20,15,18,500,1500 BCE,Mycenaean
+47,Red Figure Krater,25,20,23,690,520 BCE,Greek
+48,Red Figure Krater,27,22,25,820,520 BCE,Greek
+49,Unguentarium,11,9,10,270,100 BCE,Roman
+50,Unguentarium,12,10,11,320,100 BCE,Roman
+51,Amphora,22,18,20,580,520 BCE,Greek
+52,Amphora,25,20,22,630,520 BCE,Greek
+53,Bichrome Ware,18,14,16,440,800 BCE,Cypro-Archaic
+54,Bichrome Ware,20,15,17,510,800 BCE,Cypro-Archaic
+55,Late Minoan I Cup,8,12,8,155,1450 BCE,Minoan
+56,Late Minoan I Cup,7,11,7,135,1450 BCE,Minoan
+57,Black-topped Ware,20,15,18,520,600 BCE,Greek
+58,Black-topped Ware,22,16,20,570,600 BCE,Greek
+59,Mycenaean Stirrup Jar,18,12,16,430,1500 BCE,Mycenaean
+60,Mycenaean Stirrup Jar,19,14,17,460,1500 BCE,Mycenaean
+61,Red Figure Krater,25,20,23,720,520 BCE,Greek
+62,Red Figure Krater,28,22,26,850,520 BCE,Greek
+63,Unguentarium,12,10,11,310,100 BCE,Roman
+64,Unguentarium,11,9,10,290,100 BCE,Roman
+65,Amphora,22,18,20,590,520 BCE,Greek
+66,Amphora,25,20,22,660,520 BCE,Greek
+67,Bichrome Ware,17,13,15,420,800

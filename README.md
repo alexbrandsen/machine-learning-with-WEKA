@@ -17,7 +17,7 @@ To get started, first read the paper linked to your chosen data. In case of the 
 
 ## Data inspection
 
-Now you know what the task is, it is time to inspect the data. Download the spreadsheet (in CSV format) for your chosen subject:
+Now you know what the task is, it is time to inspect the data. Download the spreadsheet (in CSV format) for your chosen subject below. (use right-click > "save link as..." to download the files)
 
 1. https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/pottery-chemical/chemical-pottery.csv
 2. https://github.com/alexbrandsen/machine-learning-with-WEKA/raw/main/data/sex-estimation-skulls/sex-estimation.csv
